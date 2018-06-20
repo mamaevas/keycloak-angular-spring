@@ -1,0 +1,8 @@
+{
+  "realm": "KAS-Demo-Realm",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "KAS-Demo-Frontend",
+  "public-client": true,
+  "confidential-port": 0
+}
