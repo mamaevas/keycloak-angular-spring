@@ -5,4 +5,4 @@ Keyckloak 4.0.0.Final
 Angular 6  
 Spring Boot 2.0.3  
   
-Also see wiki.
+Also see tutorial.docx
